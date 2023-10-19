@@ -1,0 +1,83 @@
+{
+    "name": "Midnight Dusk",
+    "description": "Port of MidnightDusk for Aliucord by Riyu. (Without INTERACTIVE_NORMAL)",
+    "authors": [
+        {
+            "name": "jeyjai",
+            "id": "000000000000000000"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMRARY": [
+            "#FBBDD6"
+        ],
+        "HEADER_SECONDARY": [
+            "#B6B6B6"
+        ],
+        "TEXT_NORMAL": [
+            "#FEE9F2"
+        ],
+        "TEXT_LINK": [
+            "#F02475"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FDE3EE"
+        ],
+        "BACKGROUND_PRIMRARY": [
+            "#16151D"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#201F27"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#16151D"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#F02475"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#16151D"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#201F27"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#512139"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#512139"
+        ],
+        "CHANNEL_ICON": [
+            "#F02475"
+        ],
+        "CHAT_BACKGROUND": [
+            "#16151D"
+        ],
+        "TEXT_DANGER": [
+            "#840000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#201F27"
+        ]
+    },
+    "rawColors": {
+        "BRAND_230": "#F02475",
+        "BRAND_360": "#F02475",
+        "BRAND_500": "#F02475",
+        "BRAND_530": "#FBBDD6",
+        "BRAND_560": "#F02475",
+        "BRAND_600": "#F02475",
+        "PRIMARY_100": "#F02475",
+        "PRIMARY_300": "#F02475",
+        "PRIMARY_400": "#F02475",
+        "PRIMARY_600": "#16151D",
+        "PRIMARY_630": "#201F27",
+        "PRIMARY_700": "#16151D",
+        "WHITE": "#FEE9F2",
+        "WHITE_500": "#FEE9F2",
+        "YELLOW_300": "#F02475",
+        "BRAND_500_ALPHA_20": "#F02475",
+        "PRIMARY_700_ALPHA_60": "#141499"
+    }
+}
