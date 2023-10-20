@@ -16,13 +16,13 @@
             "#B6B6B6"
         ],
         "TEXT_NORMAL": [
-            "#FF95BF"
+            "#FFF0F6"
         ],
         "TEXT_LINK": [
             "#F02475"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFAECE"
+            "#FF95BF"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FDE3EE"
