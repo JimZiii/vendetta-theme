@@ -1,5 +1,5 @@
 {
-    "name": "Midnight Dusk 2",
+    "name": "test",
     "description": "Port of MidnightDusk for Aliucord by Riyu. (With INTERACTIVE_NORMAL)",
     "authors": [
         {
@@ -22,7 +22,7 @@
             "#F02475"
         ],
         "INTERACTIVE_NORMAL": [
-            "#F02475"
+            "#FF589A"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FDE3EE"
