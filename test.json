@@ -3,75 +3,84 @@
     "description": "Port of MidnightDusk for Aliucord by Riyu. (With INTERACTIVE_NORMAL)",
     "authors": [
         {
-            "name": "4444",
+            "name": "4sdg",
             "id": "000000000000000000"
         }
     ],
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMRARY": [
-            "#FBBDD68a"
+            "#FBBDD6"
         ],
         "HEADER_SECONDARY": [
-            "#B6B6B68a"
+            "#B6B6B6"
         ],
         "TEXT_NORMAL": [
-            "#FFF0F68a"
+            "#FFF0F6"
         ],
         "TEXT_LINK": [
-            "#F024758a"
+            "#F02475"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFAECE8a"
+            "#FFAECE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FDE3EE8a"
+            "#FDE3EE"
         ],
         "BACKGROUND_PRIMRARY": [
-            "#16151D8a"
+            "#16151D"
         ],
         "BACKGROUND_SECONDARY": [
-            "#201F278a"
+            "#201F27"
         ],
         "BACKGROUND_TERTIARY": [
-            "#16151D8a"
+            "#16151D"
         ],
         "BACKGROUND_ACCENT": [
             "#F02475"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#16151D8a"
+            "#16151D"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#201F278a"
+            "#201F27"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#5121398a"
+            "#512139"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#5121398a"
+            "#512139"
         ],
         "CHANNEL_ICON": [
-            "#F024758a"
+            "#F02475"
         ],
         "CHAT_BACKGROUND": [
-            "#16151D8a"
+            "#16151D"
         ],
         "TEXT_DANGER": [
-            "#8400008a"
+            "#840000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#201F278a"
+            "#201F27"
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#16151D8a",
-        "PRIMARY_630": "#201F278a",
-        "PRIMARY_700": "#16151D8a",
-        "WHITE": "#FEE9F28a",
-        "WHITE_500": "#FEE9F28a",
-        "YELLOW_300": "#F024758a",
-        "BRAND_500_ALPHA_20": "#f024758a",
-        "PRIMARY_700_ALPHA_60": "#1414998a"
+        "BRAND_230": "#F02475",
+        "BRAND_360": "#F02475",
+        "BRAND_500": "#F02475",
+        "BRAND_530": "#FBBDD6",
+        "BRAND_560": "#F02475",
+        "BRAND_600": "#F02475",
+        "PRIMARY_100": "#F02475",
+        "PRIMARY_300": "#F02475",
+        "PRIMARY_400": "#70099E",
+        "PRIMARY_600": "#16151D",
+        "PRIMARY_630": "#201F27",
+        "PRIMARY_700": "#16151D",
+        "WHITE": "#FEE9F2",
+        "WHITE_500": "#FEE9F2",
+        "YELLOW_300": "#F02475",
+        "BRAND_500_ALPHA_20": "#F02475",
+        "PRIMARY_700_ALPHA_60": "#00FDA0"
     }
 }
