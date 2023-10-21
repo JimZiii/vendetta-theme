@@ -79,8 +79,6 @@
         "PRIMARY_700": "#16151D",
         "WHITE": "#FEE9F2",
         "WHITE_500": "#FEE9F2",
-        "YELLOW_300": "#F02475",
-        "BRAND_500_ALPHA_20": "#F02475",
-        "PRIMARY_700_ALPHA_60": "#141499"
+        "YELLOW_300": "#F02475"
     }
 }
