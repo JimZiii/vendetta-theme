@@ -12,9 +12,6 @@
         "HEADER_PRIMRARY": [
             "#FBBDD6"
         ],
-        "HEADER_SECONDARY": [
-            "#6D00FB"
-        ],
         "TEXT_NORMAL": [
             "#FFF0F6"
         ],
@@ -73,7 +70,7 @@
         "BRAND_600": "#F02475",
         "PRIMARY_100": "#F02475",
         "PRIMARY_300": "#F02475",
-        "PRIMARY_400": "#FF7DB0",
+        "PRIMARY_400": "#FF97C0",
         "PRIMARY_600": "#16151D",
         "PRIMARY_630": "#201F27",
         "PRIMARY_700": "#16151D",
