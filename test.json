@@ -3,7 +3,7 @@
     "description": "Port of MidnightDusk for Aliucord by Riyu. (With INTERACTIVE_NORMAL)",
     "authors": [
         {
-            "name": "jeyjai",
+            "name": "44",
             "id": "000000000000000000"
         }
     ],
@@ -71,12 +71,6 @@
         "BRAND_530": "#FBBDD6",
         "BRAND_560": "#F02475",
         "BRAND_600": "#F02475",
-        "PRIMARY_100": "#F02475",
-        "PRIMARY_300": "#F02475",
-        "PRIMARY_400": "#F02475",
-        "PRIMARY_600": "#16151D",
-        "PRIMARY_630": "#201F27",
-        "PRIMARY_700": "#16151D",
         "WHITE": "#FEE9F2",
         "WHITE_500": "#FEE9F2",
         "YELLOW_300": "#F02475",
